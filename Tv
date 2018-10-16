@@ -1,0 +1,134 @@
+#EXTM3U
+#EXTINF:-1,MAXPRIME☆Guap@sTv☆
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1,UNIVERSALCH☆Guap@sTv☆
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://bit.ly/2QdZbTC" group-title="",TNT
+http://apk2.futeboltvgratis.com:8081/live/8/chunks.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="",HBO 2
+http://linkbaru.com/iptv/008.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2wSTWkm" group-title="",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",todo mundo odeia o cris
+http://apk2.futeboltvgratis.com:8081/live/10/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 1
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 10
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="USA",24-7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+
+#EXTINF:-1, NewTV
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225891/2.m3u8
+
+#EXTINF:-1, NewTV: CNTV
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225879/2.m3u8
+
+#EXTINF:-1, NewTV: SUPER DRAMA
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225806/2.m3u8
+
+#EXTINF:-1, NewTV: SUPER MOVIE
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225804/2.m3u8
+
+#EXTINF:-1, NewTV: CNTV
+http://223.110.243.155:80/PLTV/3/224/3221225547/index.m3u8
+
+#EXTINF:-1, NewTV: SUPER VARIETY
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225801/2.m3u8
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" tvg-logo="https://i.pinimg.com/originals/3c/90/1e/3c901e4426299ba0c983db03e4659e63.jpg" group-title="CINE",AXN
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/152.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AZCinema" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",AZCinema
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/192.m3u8
+
+#EXTINF:-1 tvg-id="Az Coraz�n" tvg-name="AzCorazon" tvg-logo="http://www.supercable.com.pe/uploads/5/3/5/0/53505143/_5362891.jpg" group-title="MEXICO",AzCorazon
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Siete" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/thumb.58b11a55bbf52_Azteca72017.png.554dd67f3c046f5af9940bfee64c8362.png" group-title="MEXICO",Azteca Siete
+http://tvpremiumhd.club/lista-gratuita/green/tv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Xmas Fireplace 2
+http://play.lanet.tv/live/2009.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Reload BIZZ
+http://bit.ly/2l0o6Os
+
+#EXTINF:-1 tvg-id="AlJazeeraBalkans" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AlJazeeraBalkans" tvg-logo="http://nextgen-iptv.com/logo/AlJazeeraBalkans_BA.png" group-title="EX-YU",Al Jazeera Balkans
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="USA",CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, Euronews
+http://61.58.60.230:9000/live/129.m3u8
+
+#EXTINF:-1,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="USA",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="USA",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="USA",Fox Premium Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="USA",Fox Action Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://www.thelogodb.com/images/media/logo/wxsvrt1459111382.png" group-title="Movies",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,HBO 2 International
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg" group-title="UK",KIX (Asia)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, WOWOW MOVIES (JPN|ENG)
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1, & Pictures HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, & PPRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1, & Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, & Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
